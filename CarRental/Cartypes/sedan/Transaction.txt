@@ -1,0 +1,6 @@
+Transaction ID, Customer ID, Car ID, Car Name, Car Type, Rental Start Date, Rental End Date, Total Amount (USD)
+1, 1001, 1, Toyota Camry, Sedan, 2024-03-15, 2024-03-20, 350.00
+2, 1002, 2, Honda Accord, Sedan, 2024-03-18, 2024-03-25, 480.00
+3, 1003, 3, Volkswagen Golf, Hatchback, 2024-03-20, 2024-03-22, 200.00
+4, 1004, 5, Toyota RAV4, SUV, 2024-03-22, 2024-03-28, 600.00
+5, 1005, 6, Honda CR-V, SUV, 2024-03-25, 2024-04-01, 550.00
